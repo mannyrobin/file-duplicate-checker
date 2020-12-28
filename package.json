@@ -1,0 +1,16 @@
+{
+  "name": "samsungnext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find-duplicate-files": "0.0.10",
+    "md5-file": "^5.0.0",
+    "sha256-file": "^1.0.0"
+  }
+}
