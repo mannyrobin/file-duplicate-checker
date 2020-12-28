@@ -11,3 +11,7 @@ It will display arrays of duplicated files.
 For example:
 ['1.avi', 'demo.avi', '3d_demo.avi'],
 ['2.pdf', 'readme.pdf', 'gudide.pdf']
+
+3. Dependencies
+- Library for getting MD5 checksum of each file.
+- Modules for getting files & directories of a particular directory
